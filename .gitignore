@@ -1,0 +1,16 @@
+npm-debug.log
+package-lock.json
+.DS_Store
+*.js.map
+*.css
+app/**/*.js
+.vscode/launch.json
+hooks/
+lib/
+node_modules/
+/platforms/
+tmp/
+typings/
+app/config/config.ts
+metadata*
+*.css
